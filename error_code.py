@@ -3,7 +3,7 @@ def calculate_area(radius):
     area = pi * radius * radius
     return area
 
-radius_list = [5, 10, 15, "twenty", 25] 
+radius_list = [5, 10, 15, 20, 25] 
 
 if __name__ == "__main__":
     for r in radius_list:
